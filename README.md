@@ -1,2 +1,1 @@
-# Palette_skills_2
- 
+# Palette_training_2
